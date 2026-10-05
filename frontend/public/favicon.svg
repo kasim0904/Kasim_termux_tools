@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="140" fill="#00A859"/>
+  <!-- SUV side profile matching user screenshot -->
+  <g fill="none" stroke="#FFFFFF" stroke-width="28" stroke-linecap="round" stroke-linejoin="round">
+    <!-- SUV Body Outline -->
+    <path d="M 135 330 
+             L 105 330 
+             C 90 330 80 318 80 300 
+             L 80 255 
+             C 80 240 90 230 105 230 
+             L 155 230 
+             L 205 160 
+             C 215 145 235 140 255 140 
+             L 365 140 
+             C 385 140 400 155 405 175 
+             L 420 230 
+             C 432 235 440 248 440 265 
+             L 440 300 
+             C 440 318 430 330 410 330 
+             L 380 330" />
+    
+    <!-- Left Wheel -->
+    <circle cx="160" cy="330" r="30" fill="#00A859" stroke="#FFFFFF" stroke-width="24"/>
+    
+    <!-- Right Wheel -->
+    <circle cx="345" cy="330" r="30" fill="#00A859" stroke="#FFFFFF" stroke-width="24"/>
+    
+    <!-- Window Line -->
+    <path d="M 175 230 L 215 175 L 365 175 L 365 230 Z" />
+  </g>
+</svg>
